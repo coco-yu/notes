@@ -52,5 +52,6 @@
       
 8. align-items 属性定义flex子项在flex容器的当前行的侧轴（纵轴）方向上的对齐方式
 
-9. 
-   
+9. -webkit-line-clamp必须配合display: -webkit-box; text-overflow: -o-ellipsis-lastline; -webkit-box-orient: vertical;来使用。
+
+10. 
