@@ -123,4 +123,11 @@
 13. Object.keys()
      Object.keys() 方法会返回一个由一个给定对象的自身可枚举属性组成的数组，数组中属性名的排列顺序和使用 for...in 循环遍历该对象时返
                    回的顺序一致 （两者的主要区别是 一个 for-in 循环还会枚举其原型链上的属性）。    
+    
+14. each() 方法规定为每个匹配元素规定运行的函数。  返回 false 可用于及早停止循环。
+     $(selector).each(function(index,element))   
+       function(index,element)   必需。为每个匹配元素规定运行的函数。
+       index - 选择器的 index 位置
+       element - 当前的元素（也可使用 "this" 选择器）
        
+      
