@@ -88,7 +88,6 @@
                 //data可能是xmlDoc、jsonObj、html、text等等
                 this;  //调用本次ajax请求时传递的options参数
              }
-    
          error: 要求为Function类型的参数，请求失败时被调用的函数。该函数有3个参数，即XMLHttpRequest对象、错误信息、捕获的错误对象
                 (可选)。ajax事件函数如下：
                 function(XMLHttpRequest, textStatus, errorThrown){
