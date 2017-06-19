@@ -129,4 +129,4 @@
        index - 选择器的 index 位置
        element - 当前的元素（也可使用 "this" 选择器）
        
-      
+15. trigger() 方法触发被选元素的指定事件类型。
