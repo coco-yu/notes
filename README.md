@@ -132,3 +132,5 @@
 15. trigger() 方法触发被选元素的指定事件类型。
 
 16. event.preventDefault()  取消事件的默认动作。
+
+17. 假值：false、''、0、NaN、null、undefined除了这六个其他都能转成true
