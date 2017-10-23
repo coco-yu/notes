@@ -136,5 +136,3 @@
 17. 假值：false、''、0、NaN、null、undefined除了这六个其他都能转成true
 
 18. Cropper 固定大小的图片剪裁插件http://fengyuanchen.github.io/cropper/
-
-
